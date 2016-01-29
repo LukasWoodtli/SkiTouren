@@ -1,0 +1,13 @@
+Skitouren:
+
+Lavinen:
+Neuschnee: GRM
+Triebschnee: keine GRM!, umgehen
+Nassschnee: keine GRM!, Tour abbrechen
+Altschnee: GRM defensiv anwenden, Bulletin
+
+Dauer einer Tour schätzen:
+Aufstieg: pro 4'000 m Distanz 1h, pro 400 Höhenmeter 1h
+Abfahrt: pro 10'000 m Distanz 1h, pro 1'000 Höhenmeter 1h
+Fellwechsel 20 min
+Alle 60 min 15 min Pause
